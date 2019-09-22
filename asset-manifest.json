@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/website_demo/static/css/main.34de6062.chunk.css",
+    "main.js": "/website_demo/static/js/main.85acd69b.chunk.js",
+    "main.js.map": "/website_demo/static/js/main.85acd69b.chunk.js.map",
+    "runtime-main.js": "/website_demo/static/js/runtime-main.faca6f93.js",
+    "runtime-main.js.map": "/website_demo/static/js/runtime-main.faca6f93.js.map",
+    "static/js/2.e4e9f23e.chunk.js": "/website_demo/static/js/2.e4e9f23e.chunk.js",
+    "static/js/2.e4e9f23e.chunk.js.map": "/website_demo/static/js/2.e4e9f23e.chunk.js.map",
+    "index.html": "/website_demo/index.html",
+    "precache-manifest.f8f857a11a649615e72eb8d035e16aa3.js": "/website_demo/precache-manifest.f8f857a11a649615e72eb8d035e16aa3.js",
+    "service-worker.js": "/website_demo/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/website_demo/static/css/main.34de6062.chunk.css.map",
+    "static/media/quinoa-seeds.png": "/website_demo/static/media/quinoa-seeds.443a33a4.png"
+  }
+}
