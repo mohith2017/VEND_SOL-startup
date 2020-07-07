@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## What is VEND SOL?
+
+This is an automated vending machine dispenser for entrepreneurs to sell their product on this platform and for customers to buy them using just their mobile by interacting with a QR code.
+This repository contains the functionality behind the working of the VEND SOL machine's QR code mechanism.
+
 ## Available Scripts
 
 In the project directory, you can run:
